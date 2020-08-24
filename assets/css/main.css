@@ -150,8 +150,13 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #1496d4;
 		margin: 0 0 0.75em 0;
+	}
+
+	.h2color 
+	{
+		color: #1496d4;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1984,6 +1989,7 @@ input, select, textarea {
 				font-size: 6em;
 			}
 
+
 /* Wrappers */
 
 	.wrapper {
@@ -1999,7 +2005,9 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background: rgb(2,0,36);
+			background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(2,0,36,1) 100%);
+			/*background-color: #1496d4;*/
 			text-shadow: 1px 1px 0px #fff;
 		}
 
