@@ -2006,7 +2006,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background: rgb(2,0,36);
-			background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(2,0,36,1) 100%);
+			background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 40%, rgba(48, 48, 48,1) 100%);
 			/*background-color: #1496d4;*/
 			text-shadow: 1px 1px 0px #fff;
 		}
